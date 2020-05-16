@@ -54,7 +54,7 @@
         }
       },
       "minecraft:particle_appearance_tinting": {
-        "color": [ "variable.color_base", "variable.color_base * 0.3", "variable.color_base * 0.9", 1.0 ]
+        "color": "#BC0300"
       }
     }
   }
