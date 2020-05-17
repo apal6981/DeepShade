@@ -4,7 +4,7 @@
     "description": "Deep as the ocean! Violet rays as the monsters. Love.... uh... du....I don't know.",
     "name": "DeepShade",
     "uuid": "2fc457c2-c64f-40fd-8e50-2257ad0f49fc",
-    "version": [1, 0, 0],
+    "version": [1, 1, 0],
     "min_engine_version": [1, 14, 0]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "description": "Deep as the ocean! Violet rays as the monsters. Love.... uh... du....I don't know.",
       "type": "resources",
       "uuid": "e0d71fd2-eff2-4cf4-8761-56e920b4e1f9",
-      "version": [1, 0, 0]
+      "version": [1, 1, 0]
     }
   ]
 }
